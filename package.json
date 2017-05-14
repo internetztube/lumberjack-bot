@@ -1,0 +1,11 @@
+{
+  "name": "lumberjack-bot",
+  "version": "1.0.0",
+  "description": "telegram lumberjack bot",
+  "main": "index.js",
+  "dependencies": {
+    "robotjs": "^0.4.7"
+  },
+  "devDependencies": {},
+  "author": "Frederic Köberl",
+}
