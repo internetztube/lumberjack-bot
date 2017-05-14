@@ -1,6 +1,6 @@
 const robot = require("robotjs");
-const Countdown = require('./countdown');
-const LumberJack = require('./lumberjack');
+const Countdown = require('./src/countdown');
+const LumberJack = require('./src/lumberjack');
 
 let leftCursor;
 let rightCursor;
