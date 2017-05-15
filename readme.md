@@ -14,6 +14,4 @@ npm install
 node index.js
 ```
 
-Follow instructions. Watch the [video](https://github.com/internetztube/lumberjack-bot/blob/master/tutorial.mp4)!  
-
-<video src="" autoplay loop controls></video>
+Follow the given instructions.  [video](https://www.youtube.com/watch?v=i0kVMZMS1LE)
