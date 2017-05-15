@@ -14,4 +14,4 @@ npm install
 node index.js
 ```
 
-Follow the given instructions.  [video](https://www.youtube.com/watch?v=i0kVMZMS1LE)
+Follow the given instructions.  [video](https://www.youtube.com/watch?v=xW0t9muaoeg)
