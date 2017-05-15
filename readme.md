@@ -16,4 +16,4 @@ node index.js
 
 Follow instructions. 
 
-<video src="video.mp4" autoplay loop controls></video>
+<video src="https://github.com/internetztube/lumberjack-bot/blob/master/tutorial.mp4" autoplay loop controls></video>
